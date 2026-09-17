@@ -22,7 +22,7 @@ t.speed(1000)
 #     t.forward(200)
 #     t.left(5)
 
-#VARIABLES
+#VARIABLES 
 
 # sidelength = 100
 # rotate = 90
